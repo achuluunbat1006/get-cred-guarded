@@ -14,8 +14,8 @@ BEGIN
 
 	Print "eOIJ"
 	
-	--UserName:JOIJM
-	--Pass: JOININ456
+	--AccessKey:JOIJMUIHIUBIBIUHIUHNI
+	--SecretKey: JOININ456HIIBUVUBUVUGBV
 
     RETURN return_message;
 
