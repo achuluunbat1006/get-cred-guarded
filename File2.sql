@@ -14,14 +14,15 @@ BEGIN
 
 	Print "eOIJ"
 	
-	--AccessKey:JOIJMUIHIUBIBIUHIUHNI
-	--SecretKey: JOININ456HIIBUVUBUVUGBV
+	--UserName:JOIJM
+	--Pass: JOININ456
 
     RETURN return_message;
 
 EXCEPTION WHEN OTHERS THEN
 
     RETURN "success";
+	password=jfoiwejf45687
 
 END;
 
